@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "777139503848",
+    "firebase_url": "https://cristagram-ad811-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "cristagram-ad811",
+    "storage_bucket": "cristagram-ad811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777139503848:android:d77bcd4a193b8725823f5d",
+        "android_client_info": {
+          "package_name": "pro.luisserrano.mistagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777139503848-lc5ri33qmb6nt8vdsaoqnbrabnnmrkqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVbnqUh5n_C9-I8hQgGf6tvhXjjXToX9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777139503848-lc5ri33qmb6nt8vdsaoqnbrabnnmrkqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
